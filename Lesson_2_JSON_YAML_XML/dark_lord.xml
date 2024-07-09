@@ -1,0 +1,15 @@
+<character>
+  <name>Tom Riddle</name>
+  <age>65</age>
+  <known_by_names> 
+    <name>Lord Voldemort</name>
+    <name>You Know Who</name>
+    <name>He Who Must Not Be Named</name> 
+    <name>The Dark Lord</name> 
+  </known_by_names>
+  <death>
+    <isDead>true</isDead>
+    <dayOfDeath>1998-05-02</dayOfDeath>
+    <killedBy>Harry Potter</killedBy>
+  </death>
+</character>

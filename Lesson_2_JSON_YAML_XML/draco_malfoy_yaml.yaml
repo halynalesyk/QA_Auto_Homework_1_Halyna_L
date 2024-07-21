@@ -1,0 +1,11 @@
+name: "Draco Malfoy" 
+age: "11" 
+school: "Hogwarts"
+house: "Slytherin" 
+isOrphan: false 
+parents: 
+  - "Lucius Malfoy" 
+  - "Narcissa Malfoy" 
+friends: 
+  - "Vincen Crabbe" 
+  - "Gregory Goyle"

@@ -1,0 +1,14 @@
+{ 
+  "name": "Harry Potter", 
+  "age": "11", 
+  "school": "Hogwarts", 
+  "house": "Gryffindor", 
+  "isOrphan": true, 
+  "friends": ["Ron Weasley", "Hermione Granger"], 
+  "quidditchRole": "seeker", 
+  "lovesMuggleRelatives": false, 
+  "biggestEmeny": ["Draco Malfoy", "Lord Voldemort"],
+  "pet": "Hedwig"
+}
+
+
